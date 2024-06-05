@@ -1,6 +1,3 @@
-Certainly! Here is the `README.md` file written to show the instructions as you specified:
-
-
 # Deployment Instructions
 
 ## Backend Deployment
