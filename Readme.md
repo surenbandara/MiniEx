@@ -1,6 +1,6 @@
 Certainly! Here is the `README.md` file written to show the instructions as you specified:
 
-```markdown
+
 # Deployment Instructions
 
 ## Backend Deployment
@@ -31,16 +31,3 @@ Certainly! Here is the `README.md` file written to show the instructions as you 
    npm start
    ```
 ```
-
-To create this file, follow these steps:
-
-1. **Create the `README.md` file in your project root directory:**
-   ```bash
-   touch README.md
-   ```
-
-2. **Open the `README.md` file in a text editor and paste the above content.**
-
-3. **Save the file.**
-
-This will ensure that the instructions are clearly shown in your README.md file, maintaining the format you provided.
